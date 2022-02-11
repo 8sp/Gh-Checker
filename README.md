@@ -1,4 +1,4 @@
-# Proxy-Scraper
+# Gh-Checker
 > ![Gh-Checker](https://user-images.githubusercontent.com/88463490/153643050-883a056a-aac8-4329-8acd-84d6a49a16ef.png)
 
 
