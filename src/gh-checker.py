@@ -12,13 +12,12 @@ except:
     os.system("pip install requests")
     
 #LOGO
-logo = """
-  _                     _     
- | |   _   _ _ __   ___| |__  
- | |  | | | | '_ \ / __| '_ \ 
- | |__| |_| | | | | (__| | | |
- |_____\__, |_| |_|\___|_| |_|
-       |___/                                    
+logo = """     
+   _   _       _ _ 
+  | \ | |_   _| | |
+  |  \| | | | | | |
+  | |\  | |_| | | |
+  |_| \_|\__,_|_|_| (v1.0)
 """
 print(Fore.CYAN+logo)
 input(f"[{Fore.CYAN}i{Fore.RESET}] Press ENTER, When You Have [users.txt] File")
