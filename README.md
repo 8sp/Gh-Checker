@@ -1,5 +1,6 @@
 # Gh-Checker
-> ![Screenshot_2](https://user-images.githubusercontent.com/88463490/156787840-b5284beb-a821-4e78-abbc-2a58b5dbc5cf.png)
+
+![Screenshot_3](https://user-images.githubusercontent.com/88463490/156801377-cac43d84-313a-4e74-a32a-3c0bd4a67df0.png)
 
 
 
