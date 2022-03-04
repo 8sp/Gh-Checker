@@ -5,7 +5,7 @@ from os import system
 from time import sleep
 from colorama import Fore
 colorama.init(autoreset=True)
-system("title " + "Gh-Checker - By Lynch")
+system("title " + "Gh-Checker - By Null - @ENTRYSQUAD")
 try:
     import requests
 except:
