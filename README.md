@@ -1,5 +1,5 @@
 # Gh-Checker
-> ![Gh-Checker](https://user-images.githubusercontent.com/88463490/153643050-883a056a-aac8-4329-8acd-84d6a49a16ef.png)
+> ![Screenshot_1](https://user-images.githubusercontent.com/88463490/156787565-54fd8f06-be66-4476-bf98-765d1075d53a.png)
 
 
 <h3 align="left">Socials:</h3>
@@ -9,5 +9,6 @@
 
 <h3 align="left">Language:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 
