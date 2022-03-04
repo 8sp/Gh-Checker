@@ -1,5 +1,5 @@
 # Gh-Checker
-> ![Screenshot_1](https://user-images.githubusercontent.com/88463490/156787565-54fd8f06-be66-4476-bf98-765d1075d53a.png)
+> ![Screenshot_2](https://user-images.githubusercontent.com/88463490/156787782-808918f6-f7a4-4833-8488-580d4a232a5e.png
 
 
 <h3 align="left">Socials:</h3>
