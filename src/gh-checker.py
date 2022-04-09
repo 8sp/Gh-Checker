@@ -1,5 +1,4 @@
 # LIBRARIES
-
 import os
 import colorama
 from os import system
@@ -13,7 +12,6 @@ except:
     os.system("pip install requests")
     
 # LOGO
-
 logo = f"""     
    _   _       _ _ 
   | \ | |_   _| | |
@@ -27,7 +25,6 @@ u = open("users.txt","r")
 z = 0
 
 # WHILE LOOP
-
 while 1:
     user = u.readline().split("\n")[0]
     r = requests.get(f"https://github.com/{user}").status_code
