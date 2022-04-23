@@ -1,4 +1,6 @@
-# LIBRARIES
+# Copyright © 2022 All Rights Reserved
+# Developed & Programmed By Null
+# For More Information Contact @entrysquad (IG)
 
 try:
     import sys
@@ -16,8 +18,7 @@ colorama.init(autoreset=True)
 
 from time import sleep
 
-# LOGO
-
+# Null
 logo = f"""
    _   _       _ _ 
   | \ | |_   _| | |
@@ -33,9 +34,11 @@ try:
 except ValueError :
     print(f"[{Fore.RED}!{Fore.RESET}] Please, You're Only Allowed To Use Numbers !!")
     exit()
+# Def Function
 def MadeUsers(data):
   Leter = (Value)
   User = ""
+# While Loop
   while len(User) != Value:
     The_Choice = random.choice(data)
     User += The_Choice
@@ -52,11 +55,13 @@ the_file = open(f"users.txt")
 the_lines = the_file.readlines()
 the_lines = [line.strip() for line in the_lines]
 final_lines = {}
+# Def Function
 def file_lengthy(fname):
     with open(fname) as f:
         for i, l in enumerate(f):
             pass
     return i + 1
+# Def Function
 def file_lengthy2(fname):
     with open(fname) as f:
         for i, l in enumerate(f):
@@ -72,5 +77,4 @@ file.write(lines + "\n")
 file.close()
 print(f"\n[{Fore.GREEN}+{Fore.RESET}] File Lines After >>", file_lengthy2(f"users.txt"))
 print(f"[{Fore.CYAN}i{Fore.RESET}] Grabbed & Saved All Users In [users.txt]")
-
-# THE END
+# End Codding /
