@@ -1,4 +1,7 @@
-# LIBRARIES
+# Copyright © 2022 All Rights Reserved
+# Developed & Programmed By Null
+# For More Information Contact @entrysquad (IG)
+
 import os
 import colorama
 from os import system
@@ -11,7 +14,7 @@ try:
 except:
     os.system("pip install requests")
     
-# LOGO
+# Null
 logo = f"""     
    _   _       _ _ 
   | \ | |_   _| | |
@@ -24,7 +27,7 @@ input(f"[{Fore.CYAN}i{Fore.RESET}] Press ENTER, When You Have [users.txt] File")
 u = open("users.txt","r")
 z = 0
 
-# WHILE LOOP
+# While Loop
 while 1:
     user = u.readline().split("\n")[0]
     r = requests.get(f"https://github.com/{user}").status_code
@@ -36,3 +39,4 @@ while 1:
             print("[{Fore.RED}-{Fore.RESET}] No Problem")
     else:
         print(f"[{Fore.RED}!{Fore.RESET}] Error: {r}")
+# End Codding /
