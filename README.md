@@ -1,8 +1,5 @@
 # Gh-Checker
-
-
-![4](https://user-images.githubusercontent.com/88463490/156805309-6ec67de1-6760-425a-932e-f18b23846b02.png)
-
+![Screenshot_2](https://user-images.githubusercontent.com/88463490/168334021-6a7a17d5-8348-456e-96d9-1476d8f0e2e9.png)
 
 <h3 align="left">Socials:</h3>
 
