@@ -17,17 +17,15 @@ from colorama import Fore
 colorama.init(autoreset=True)
 
 from time import sleep
-
 # Null
-logo = f"""
-   _   _       _ _ 
-  | \ | |_   _| | |
-  |  \| | | | | | |
-  | |\  | |_| | | |
-  |_| \_|\__,_|_|_| {Fore.WHITE}(v1.0){Fore.RESET}                             
+logo = f"""     
+     __       _ _ 
+  /\ \ \_   _| | |
+ /  \/ / | | | | |
+/ /\  /| |_| | | |
+\_\ \/  \__,_|_|_| {Fore.WHITE}(v1.0){Fore.RESET}
 """
-
-print(Fore.CYAN+logo) 
+print(Fore.CYAN+logo)
 try:
     Number = int(input(f"[{Fore.GREEN}?{Fore.RESET}] How Many Users: "))
     Value = int(input(f"[{Fore.GREEN}?{Fore.RESET}] How Many Letters: "))
