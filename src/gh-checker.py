@@ -16,11 +16,12 @@ except:
     
 # Null
 logo = f"""     
-   _   _       _ _ 
-  | \ | |_   _| | |
-  |  \| | | | | | |
-  | |\  | |_| | | |
-  |_| \_|\__,_|_|_| {Fore.WHITE}(v1.0){Fore.RESET}
+     __       _ _ 
+  /\ \ \_   _| | |
+ /  \/ / | | | | |
+/ /\  /| |_| | | |
+\_\ \/  \__,_|_|_| {Fore.WHITE}(v1.0){Fore.RESET}
+
 """
 print(Fore.CYAN+logo)
 input(f"[{Fore.CYAN}i{Fore.RESET}] Press ENTER, When You Have [users.txt] File")
