@@ -9,10 +9,5 @@
 <h3 align="left">Language:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-### Paypal small
-<span class="badge-donate">
-<a href="[https://ko-fi.com/USER](https://www.paypal.com/paypalme/donate2null)" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee DONATE button" /></a>
-</span>
-
+<a href="https://www.paypal.com/paypalme/donate2nul"><img src="https://img.shields.io/badge/Paypal-Donate-blue.svg" alt="Donate"></a>
 
