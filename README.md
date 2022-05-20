@@ -13,11 +13,11 @@ $ users.txt
 ```
 ## INSTALLATION [Linux]:
 ```
- git clone https://github.com/8sp/Gh-Checker
- cd Gh-Checker
- cd src
- python3 gh-checker.py
- python3 user-maker.py
+$ git clone https://github.com/8sp/Gh-Checker
+$ cd Gh-Checker
+$ cd src
+$ python3 gh-checker.py &
+$ python3 user-maker.py
 ```
 ## CONNECT WITH US:
 
