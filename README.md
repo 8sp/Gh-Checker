@@ -10,10 +10,7 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
-<span class="badge-buymeacoffee">
-<a href="https://ko-fi.com/USER" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a>
-</span>
-<span class="badge-patreon">
-<a href="https://patreon.com/USER" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a>
-</span>
+### Paypal small
+![Image description](paypal-donate-icon-7.png)
+* [Cropped from Source](https://icon-library.com/icon/paypal-donate-icon-7.html) - Paypal Donate Icon #298146
 
