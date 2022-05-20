@@ -9,5 +9,5 @@
 <h3 align="left">Language:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<a href="https://www.paypal.com/paypalme/donate2nul"><img src="https://img.shields.io/badge/Paypal-Donate-blue.svg" alt="Donate"></a>
+<a href="https://www.paypal.com/paypalme/donate2null"><img src="https://img.shields.io/badge/Paypal-Donate-blue.svg" alt="Donate"></a>
 
