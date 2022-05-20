@@ -11,6 +11,5 @@
 
 
 ### Paypal small
-![Image description](paypal-donate-icon-7.png)
-* [Cropped from Source](https://icon-library.com/icon/paypal-donate-icon-7.html) - Paypal Donate Icon #298146
+(https://www.paypal.com/paypalme/donate2null)
 
