@@ -11,7 +11,7 @@
 
 
 ### Paypal small
-<span class="badge-buymeacoffee">
+<span class="badge-donate">
 <a href="[https://ko-fi.com/USER](https://www.paypal.com/paypalme/donate2null)" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee DONATE button" /></a>
 </span>
 
