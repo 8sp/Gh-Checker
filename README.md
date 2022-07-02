@@ -9,7 +9,6 @@ $ pip install sys
 $ pip install colorama
 $ pip install time
 $ pip install requests
-$ users.txt
 ```
 ## INSTALLATION [Linux]:
 ```
